@@ -1,0 +1,11 @@
+/Users/rohandg/prijsplafond/target/debug/deps/libegui_winit-d13ff2e0170f82d1.rmeta: /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/lib.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/clipboard.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/screen_reader.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/window_settings.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/epi.rs
+
+/Users/rohandg/prijsplafond/target/debug/deps/libegui_winit-d13ff2e0170f82d1.rlib: /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/lib.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/clipboard.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/screen_reader.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/window_settings.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/epi.rs
+
+/Users/rohandg/prijsplafond/target/debug/deps/egui_winit-d13ff2e0170f82d1.d: /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/lib.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/clipboard.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/screen_reader.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/window_settings.rs /Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/epi.rs
+
+/Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/lib.rs:
+/Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/clipboard.rs:
+/Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/screen_reader.rs:
+/Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/window_settings.rs:
+/Users/rohandg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.15.0/src/epi.rs:

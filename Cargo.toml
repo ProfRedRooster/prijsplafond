@@ -1,0 +1,10 @@
+[package]
+name = "prijsplafond"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.30.0"
+eframe = { version = "0.30.0", features = ["glow"] }
+plotters = "0.3.7"
+egui_plot = "0.30.0"
